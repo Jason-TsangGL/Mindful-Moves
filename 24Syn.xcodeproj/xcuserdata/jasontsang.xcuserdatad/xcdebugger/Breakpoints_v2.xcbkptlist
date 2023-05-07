@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "610CB9B3-F7AA-4D1D-9786-B4830676319E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "WeeklyQuantitySampleTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37 - 870e9c9454a59515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recover.WeeklyQuantitySampleTableViewController.__allocating_init(dataTypeIdentifier: Swift.String) -&gt; Recover.WeeklyQuantitySampleTableViewController"
+                  moduleName = "Recover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasontsang/Desktop/HealthStudyApp/Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37 - be43247824e849ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recover.WeeklyQuantitySampleTableViewController.init(dataTypeIdentifier: Swift.String) -&gt; Recover.WeeklyQuantitySampleTableViewController"
+                  moduleName = "Recover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasontsang/Desktop/HealthStudyApp/Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37 - 54de8bc9b3cc512c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recover.WeeklyQuantitySampleTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Recover.WeeklyQuantitySampleTableViewController&gt;"
+                  moduleName = "Recover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasontsang/Desktop/HealthStudyApp/Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37 - e630429ab2981802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recover.WeeklyQuantitySampleTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Recover.WeeklyQuantitySampleTableViewController&gt;"
+                  moduleName = "Recover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasontsang/Desktop/HealthStudyApp/Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1AEBB3E1-136E-4992-A7D6-689198C6BD37 - 11907994ebb004a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recover.WeeklyQuantitySampleTableViewController.__deallocating_deinit"
+                  moduleName = "Recover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasontsang/Desktop/HealthStudyApp/Recover/SourceCode/ViewControllers/WeeklyQuantitySampleTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "673F53F2-0D87-4D71-83FA-74E9A1F94C4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recover/View/HealthDataView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "HealthDataView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
